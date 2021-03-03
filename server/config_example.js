@@ -3,4 +3,4 @@
 // Remember not to commit the file with your authorization token
 module.exports = {
   API_TOKEN: '<Auth Token>'
-}
+};
